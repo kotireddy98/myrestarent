@@ -1,0 +1,71 @@
+﻿@model IEnumerable<FoodRestaurant.Controllers.OrderController.OrderBO>
+
+@{
+    ViewBag.Title = "Order";
+    Layout = "~/Views/Shared/_FoodLayout.cshtml";
+}
+
+
+<h2 class="" style="text-align:center;color:brown"><b>Orders</b></h2>
+
+<div class="row" style="height: 20px;"></div>
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Order Name</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Address</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.OrderID</td>
+                <td>@order.OrderName</td>
+                <td>
+                    @if (!order.Quantity.HasValue || order.Quantity == 0)
+                    {
+                        <span class="text-danger">Out of Stock</span>
+                    }
+                    else
+                    {
+                        @order.Quantity
+                    }
+                </td>
+                <td>
+                    @if (!order.Quantity.HasValue || order.Quantity == 0)
+                    {
+                        <span class="text-muted">N/A</span>
+                    }
+                    else
+                    {
+                        @order.Price
+                    }
+                </td>
+                <td>
+                    @if (!order.Quantity.HasValue || order.Quantity == 0)
+                    {
+                        <span class="text-muted">N/A</span>
+                    }
+                    else
+                    {
+                        @order.Addresses
+                    }
+                </td>
+                @*<td>
+                    <a href="@Url.Action("Edit", "Order", new { id = order.OrderID })" class="btn btn-primary">Edit</a>
+                </td>*@
+                <td>
+                    <a href="@Url.Action("DeleteOrder", "Order", new { id = order.OrderID })" class="btn btn-primary">Delete</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+

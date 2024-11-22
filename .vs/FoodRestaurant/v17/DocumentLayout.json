@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FoodRestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|D:\\FoodRestaurant\\foodrestaurant\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|solutionrelative:foodrestaurant\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|D:\\FoodRestaurant\\foodrestaurant\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|solutionrelative:foodrestaurant\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|d:\\foodrestaurant\\foodrestaurant\\views\\order\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|solutionrelative:foodrestaurant\\views\\order\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|D:\\FoodRestaurant\\foodrestaurant\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|solutionrelative:foodrestaurant\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|D:\\FoodRestaurant\\foodrestaurant\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|solutionrelative:foodrestaurant\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|D:\\FoodRestaurant\\foodrestaurant\\views\\shared\\_foodlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|solutionrelative:foodrestaurant\\views\\shared\\_foodlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|D:\\FoodRestaurant\\foodrestaurant\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|solutionrelative:foodrestaurant\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|D:\\FoodRestaurant\\foodrestaurant\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73F5C091-3557-4C9E-B33D-6C95FDC6A742}|FoodRestaurant\\FoodRestaurant.csproj|solutionrelative:foodrestaurant\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "D:\\FoodRestaurant\\FoodRestaurant\\Views\\Order\\Order.cshtml",
+              "RelativeDocumentMoniker": "FoodRestaurant\\Views\\Order\\Order.cshtml",
+              "ToolTip": "D:\\FoodRestaurant\\FoodRestaurant\\Views\\Order\\Order.cshtml",
+              "RelativeToolTip": "FoodRestaurant\\Views\\Order\\Order.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T02:01:54.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\FoodRestaurant\\FoodRestaurant\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "FoodRestaurant\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\FoodRestaurant\\FoodRestaurant\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "FoodRestaurant\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwBEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:58:46.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "D:\\FoodRestaurant\\FoodRestaurant\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "FoodRestaurant\\Views\\Home\\Services.cshtml",
+              "ToolTip": "D:\\FoodRestaurant\\FoodRestaurant\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "FoodRestaurant\\Views\\Home\\Services.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T01:49:42.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "D:\\FoodRestaurant\\FoodRestaurant\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "FoodRestaurant\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "D:\\FoodRestaurant\\FoodRestaurant\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "FoodRestaurant\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T01:27:59.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_FoodLayout.cshtml",
+              "DocumentMoniker": "D:\\FoodRestaurant\\FoodRestaurant\\Views\\Shared\\_FoodLayout.cshtml",
+              "RelativeDocumentMoniker": "FoodRestaurant\\Views\\Shared\\_FoodLayout.cshtml",
+              "ToolTip": "D:\\FoodRestaurant\\FoodRestaurant\\Views\\Shared\\_FoodLayout.cshtml",
+              "RelativeToolTip": "FoodRestaurant\\Views\\Shared\\_FoodLayout.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswCQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T16:34:43.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FoodRestaurant\\FoodRestaurant\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "FoodRestaurant\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\FoodRestaurant\\FoodRestaurant\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "FoodRestaurant\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswCYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T16:06:39.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FoodRestaurant\\FoodRestaurant\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FoodRestaurant\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FoodRestaurant\\FoodRestaurant\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FoodRestaurant\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:02:29.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\FoodRestaurant\\FoodRestaurant\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "FoodRestaurant\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\FoodRestaurant\\FoodRestaurant\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "FoodRestaurant\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:50:56.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

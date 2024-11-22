@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_FoodLayout.cshtml";
+}
+
+
+
+<div class="row" style="height:50px"></div>
+
+
+<div class="row">
+    <div class="row col-lg-12">
+        <div class="col-lg-6">
+            <h1 class="" style="color:orangered"><b>FAST FOOD RESTAURANT</b></h1>
+            <div class="row" style="height:20px"></div>
+            <p>
+                <h5>
+                    Inspired by travel and a passion for different cultures,
+                    <b>FAST FOOD RESTAURANT</b> has a vast menu of culinary delights, utilizing the freshest ingredients to
+                    bring homemade dishes straight to your table. Come dine with us today.
+                </h5>
+            </p>
+            <p>
+                <h5>
+                    Food is one of the basic necessities of life.
+                    Food contains nutrients—substances essential for the growth,
+                    repair, and maintenance of body tissues and for the regulation of vital processes.
+                    Nutrients provide the energy our bodies need to function. The energy in food is measured
+                    in units called calories.
+                    <br />
+                    <div class="row" style="height:20px"></div>
+
+                    <b>Origin</b><br /><div class="row" style="height:20px"></div>
+                    Shawarma originated in the Ottoman Empire, which is now modern-day Turkey, in the 18th or 19th century. The word "shawarma" means "turning" in Arabic.
+                </h5>
+            </p>
+            <div class="" style="height:20px"></div>
+            @*@using (Html.BeginForm("Order", "Order", FormMethod.Get, new { @class = "form-horizontal" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="form-group mt-4 text-center">
+                        <button type="submit" class="btn btn-secondary w-30">Order Now</button>
+                    </div>
+                }*@
+
+
+        </div>
+        <div class="col-lg-6 mt-4 text-center">
+            @*<img src="~/Images/istockphoto-1421688556-612x612.jpg" />*@
+            <img src="~/Images/istockphoto-1421688556-612x612.jpg" class="sitebannerlogo img-responsive" style="float: right !important; width: 600px; height: 500px;" />
+
+        </div>
+    </div>
+</div>
+
+
+<div class="row" style="height:50px"></div>
